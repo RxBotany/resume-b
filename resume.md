@@ -3,12 +3,6 @@
 
 ---
 
-<a href="https://stackoverflow.com/users/5854394/c-w">
-<img src="https://stackoverflow.com/users/flair/5854394.png" width="208" height="58" alt="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-<p><a href="https://discord.gg/A2ytTKU">https://discord.gg/A2ytTKU</a></p>
-<p><a href="https://repl.it/@RxBotany">https://repl.it/@RxBotany</a></p>
-<p><a href="https://codepen.io/rxbotany/">https://codepen.io/rxbotany/</a></p>
 <h2 id="projects">Projects</h2>
 <h3 id="morgan-stanley-wealth-management"><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">#Morgan Stanley Wealth Management</a></h3>
 <p><img src="https://workstory.s3.amazonaws.com/assets/2189783/mostan.png" alt="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US" width="308" height="248"></p>
@@ -24,4 +18,11 @@
 <h2 id="certifications">Certifications</h2>
 <p><a href="https://www.mccombs.utexas.edu/hihit/"><strong>Health Informatics &amp; Health IT Certificate</strong></a> | 2015, <em>University of Texas at Austin</em></p>
 <p><a href="https://www.pmi.org/certifications/types/certified-associate-capm"><strong>Certified Associate in Project Management (CAPM®)</strong></a> | 2015, <em>Project Management Institute</em></p>
+<h2 id="misc">Misc</h2>
+<a href="https://stackoverflow.com/users/5854394/c-w">
+<img src="https://stackoverflow.com/users/flair/5854394.png" width="208" height="58" alt="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+<p><a href="https://discord.gg/A2ytTKU">https://discord.gg/A2ytTKU</a></p>
+<p><a href="https://repl.it/@RxBotany">https://repl.it/@RxBotany</a></p>
+<p><a href="https://codepen.io/rxbotany/">https://codepen.io/rxbotany/</a></p>
 
