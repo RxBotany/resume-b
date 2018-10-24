@@ -3,7 +3,7 @@
 
 ---
 
-<h2 id="experience">Experience</h2>
+<h2 id="projects">Projects</h2>
 <h3 id="morgan-stanley-wealth-management"><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">#Morgan Stanley Wealth Management</a></h3>
 <p><img src="https://workstory.s3.amazonaws.com/assets/2189783/mostan.png" alt="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US" width="308" height="248"></p>
 <p><strong>Senior Android Developer, Consultant</strong> | <em><a href="https://www.morganstanley.com/">Morgan Stanley</a></em> | Sept 2016 - Jun 2017 | 50,000+ installs | Returned to Morgan Stanley to architect the firm-wide Cordova library project, and design SEC compliant developer environments.</p>
