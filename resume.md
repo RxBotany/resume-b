@@ -6,7 +6,7 @@
 <h2 id="experience">Experience</h2>
 <h3 id="morgan-stanley-wealth-management"><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">#Morgan Stanley Wealth Management</a></h3>
 <p><img src="https://workstory.s3.amazonaws.com/assets/2005904/morganstanley.png" alt="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US" width="150" height="280"></p>
-<p><strong>Senior Android Developer, Consultant</strong> | <em><a href="https://www.morganstanley.com/">Morgan Stanley</a></em> | Sept 2016 - Jun 2017 | 50,000+ installs | Returned to Morgan Stanley to architect the firm-wide Cordova library project, and design compliant developer environments with updated SEC regulations</p>
+<p><strong>Senior Android Developer, Consultant</strong> | <em><a href="https://www.morganstanley.com/">Morgan Stanley</a></em> | Sept 2016 - Jun 2017 | 50,000+ installs | Returned to Morgan Stanley to architect the firm-wide Cordova library project, and design SEC compliant developer environments.</p>
 <p><strong>Android Developer, Consultant</strong> | <em><a href="https://www.morganstanley.com/">Morgan Stanley</a></em> | Sept 2015 - Jan 2016 | 50,000+ installs  | Mentored by an <a href="https://www.linkedin.com/in/mtamburro/">industry pioneer iOS developer</a>. Served as the native Android developer for Morgan Stanley’s Client Mobile banking app using Java, GruntJS, NPM, and Cordova on top of AngularJS.</p>
 <h3 id="amber"><a href="https://play.google.com/store/apps/details?id=com.amber.amber">#Amber</a></h3>
 <p><img src="https://workstory.s3.amazonaws.com/assets/2005903/amber.png" alt="https://play.google.com/store/apps/details?id=com.amber.amber" width="200" height="200"></p>
