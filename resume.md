@@ -3,6 +3,9 @@
 
 ---
 
+<a href="https://stackoverflow.com/users/5854394/c-w">
+<img src="https://stackoverflow.com/users/flair/5854394.png" width="208" height="58" alt="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 <h2 id="projects">Projects</h2>
 <h3 id="morgan-stanley-wealth-management"><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">#Morgan Stanley Wealth Management</a></h3>
 <p><img src="https://workstory.s3.amazonaws.com/assets/2189783/mostan.png" alt="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US" width="308" height="248"></p>
