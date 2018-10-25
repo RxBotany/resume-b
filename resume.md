@@ -22,7 +22,6 @@
 <a href="https://stackoverflow.com/users/5854394/c-w">
 <img src="https://stackoverflow.com/users/flair/5854394.png" width="208" height="58" alt="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
-<p><a href="https://discord.gg/A2ytTKU">https://discord.gg/A2ytTKU</a></p>
 <p><a href="https://repl.it/@RxBotany">https://repl.it/@RxBotany</a></p>
 <p><a href="https://codepen.io/rxbotany/">https://codepen.io/rxbotany/</a></p>
 
