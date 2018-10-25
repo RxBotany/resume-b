@@ -24,4 +24,5 @@
 </a>
 <p><a href="https://repl.it/@RxBotany">https://repl.it/@RxBotany</a></p>
 <p><a href="https://codepen.io/rxbotany/">https://codepen.io/rxbotany/</a></p>
+<h1 id="q--a"><a href="https://github.com/RxBotany/resume-b/blob/master/interviewquestions.md">Q &amp; A</a></h1>
 
