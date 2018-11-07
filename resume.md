@@ -3,6 +3,19 @@
 
 ---
 
+<h1 id="clark-a.-wilson">Clark A. Wilson</h1>
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#projects">Professional Experience</a>
+<ul>
+<li><a href="#morgan-stanley-wealth-management">Morgan Stanley Wealth Management</a></li>
+<li><a href="#amber">Amber</a></li>
+</ul>
+</li>
+<li><a href="#recommendations">Recommendations</a></li>
+<li><a href="#education">Education</a></li>
+<li><a href="#certifications">Certifications</a></li>
+</ul>
 <h2 id="projects">Projects</h2>
 <h3 id="morgan-stanley-wealth-management"><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">#Morgan Stanley Wealth Management</a></h3>
 <p><img src="https://workstory.s3.amazonaws.com/assets/2189783/mostan.png" alt="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US" width="308" height="248"></p>
