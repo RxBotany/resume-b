@@ -36,11 +36,24 @@
 </tr>
 </tbody>
 </table><p><br><br></p>
-<p><strong>Table of Contents</strong></p>
-<ul>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Table of Contents</strong></td>
+</tr>
+</tbody>
+</table><ul>
 <li><a href="#projects">Professional Experience</a>
 <ul>
-<li><a href="#morgan-stanley-wealth-management">Morgan Stanley Wealth Management</a></li>
+<li><a href="#morgan-stanley-wealth-management">Morgan Stanley</a></li>
 <li><a href="#amber">Amber</a></li>
 </ul>
 </li>
