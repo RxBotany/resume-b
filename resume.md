@@ -3,12 +3,14 @@
 
 ---
 
+<h2>Clark A. Wilson</h2>
 
 <table>
 <thead>
 <tr>
 <th></th>
-<th>CLARK A. WILSON</th>
+<th></th>
+<th></th>
 <th></th>
 </tr>
 </thead>
@@ -17,25 +19,28 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
 <td>Software Engineer</td>
-<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Molecular Biologist</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
 <td>Visual Designer</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
-</table><p><br><br></p>
-<p><strong>Table of Contents</strong></p>
+</table><p><strong>Table of Contents</strong></p>
 <ul>
 <li><a href="#projects">Professional Experience</a>
 <ul>
