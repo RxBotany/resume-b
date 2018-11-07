@@ -1,5 +1,6 @@
 ---
-
+title: Resume
+author: Clark Wilson
 
 ---
 
@@ -61,32 +62,19 @@
 <li><a href="#education">Education</a></li>
 <li><a href="#certifications">Certifications</a></li>
 </ul>
+<p><br><br></p>
 
 <table>
 <thead>
 <tr>
 <th></th>
-<th></th>
+<th><span id="projects">Professional Experience </span></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td></td>
-<td>Professional Experience</td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">#Morgan Stanley Wealth Management</a></td>
+<td><span id="morgan-stanley-wealth-management"><a href="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US">Morgan Stanley Wealth Management</a></span></td>
 </tr>
 </tbody>
 </table><p><img src="https://workstory.s3.amazonaws.com/assets/2189783/mostan.png" alt="https://play.google.com/store/apps/details?id=com.morganstanley.clientmobile.prod&amp;hl=en_US" width="308" height="248"></p>
@@ -103,7 +91,7 @@
 <tbody>
 <tr>
 <td></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.amber.amber">#Amber</a></td>
+<td><span id="amber"> <a href="https://play.google.com/store/apps/details?id=com.amber.amber">Amber</a></span></td>
 </tr>
 </tbody>
 </table><p><img src="https://workstory.s3.amazonaws.com/assets/2005903/amber.png" alt="https://play.google.com/store/apps/details?id=com.amber.amber" width="200" height="200"></p>
@@ -119,7 +107,7 @@
 <tbody>
 <tr>
 <td></td>
-<td>Recommendations</td>
+<td><span id="recommendations"> Recommendations </span></td>
 </tr>
 </tbody>
 </table><p><img src="https://workstory.s3.amazonaws.com/assets/2005908/Screen_Shot_2018-05-27_at_7.13.25_PM.png" alt=""></p>
@@ -134,7 +122,7 @@
 <tbody>
 <tr>
 <td></td>
-<td>Education</td>
+<td><span id="education"> Education </span></td>
 </tr>
 </tbody>
 </table><p><a href="http://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/"><strong>B. Sc. Biochemistry</strong></a> | 2014, <em>University of Texas at Austin</em></p>
@@ -149,7 +137,7 @@
 <tbody>
 <tr>
 <td></td>
-<td>Certifications</td>
+<td><span id="certifications">Certifications</span></td>
 </tr>
 </tbody>
 </table><p><a href="https://www.mccombs.utexas.edu/hihit/"><strong>Health Informatics &amp; Health IT Certificate</strong></a> | 2015, <em>University of Texas at Austin</em></p>
