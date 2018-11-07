@@ -48,7 +48,7 @@ author: Clark Wilson
 <tbody>
 <tr>
 <td></td>
-<td><strong>Table of Contents</strong></td>
+<td><strong>Table of Contents</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </tbody>
 </table><ul>
@@ -62,7 +62,21 @@ author: Clark Wilson
 <li><a href="#education">Education</a></li>
 <li><a href="#certifications">Certifications</a></li>
 </ul>
-<p><br><br></p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table><p><br><br></p>
 
 <table>
 <thead>
@@ -91,7 +105,7 @@ author: Clark Wilson
 <tbody>
 <tr>
 <td></td>
-<td><span id="amber"> <a href="https://play.google.com/store/apps/details?id=com.amber.amber">Amber</a></span></td>
+<td><span id="amber"> <a href="https://play.google.com/store/apps/details?id=com.amber.amber">Amber</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </tbody>
 </table><p><img src="https://workstory.s3.amazonaws.com/assets/2005903/amber.png" alt="https://play.google.com/store/apps/details?id=com.amber.amber" width="200" height="200"></p>
@@ -122,7 +136,7 @@ author: Clark Wilson
 <tbody>
 <tr>
 <td></td>
-<td><span id="education"> Education </span></td>
+<td><span id="education"> Education  </span></td>
 </tr>
 </tbody>
 </table><p><a href="http://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/"><strong>B. Sc. Biochemistry</strong></a> | 2014, <em>University of Texas at Austin</em></p>
@@ -143,3 +157,17 @@ author: Clark Wilson
 </table><p><a href="https://www.mccombs.utexas.edu/hihit/"><strong>Health Informatics &amp; Health IT Certificate</strong></a> | 2015, <em>University of Texas at Austin</em></p>
 <p><a href="https://www.pmi.org/certifications/types/certified-associate-capm"><strong>Certified Associate in Project Management (CAPM®)</strong></a> | 2015, <em>Project Management Institute</em></p>
 
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table>
