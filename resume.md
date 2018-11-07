@@ -18,8 +18,4 @@
 <h2 id="certifications">Certifications</h2>
 <p><a href="https://www.mccombs.utexas.edu/hihit/"><strong>Health Informatics &amp; Health IT Certificate</strong></a> | 2015, <em>University of Texas at Austin</em></p>
 <p><a href="https://www.pmi.org/certifications/types/certified-associate-capm"><strong>Certified Associate in Project Management (CAPM®)</strong></a> | 2015, <em>Project Management Institute</em></p>
-<h2 id="misc">Misc</h2>
-<a href="https://stackoverflow.com/users/5854394/c-w">
-<img src="https://stackoverflow.com/users/flair/5854394.png" width="208" height="58" alt="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C W at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
 
