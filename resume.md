@@ -3,7 +3,38 @@
 
 ---
 
-<h1 id="clark-a.-wilson-software-developer-biochemist">Clark A. Wilson: Software Developer, Biochemist</h1>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>CLARK A. WILSON</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Software Engineer</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Molecular Biologist</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Visual Designer</td>
+<td></td>
+</tr>
+</tbody>
+</table><p><br><br></p>
 <p><strong>Table of Contents</strong></p>
 <ul>
 <li><a href="#projects">Professional Experience</a>
