@@ -3,44 +3,39 @@
 
 ---
 
-<h2>Clark A. Wilson</h2>
 
 <table>
 <thead>
 <tr>
 <th></th>
-<th></th>
-<th></th>
+<th align="center"></th>
 <th></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td></td>
+<td align="center"><h1>Clark A. Wilson</h1></td>
 <td></td>
-<td></td>
-<td>Software Engineer</td>
 </tr>
 <tr>
 <td></td>
+<td align="center">Molecular Biologist</td>
 <td></td>
-<td></td>
-<td>Molecular Biologist</td>
 </tr>
 <tr>
 <td></td>
+<td align="center">Visual Designer</td>
 <td></td>
-<td></td>
-<td>Visual Designer</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td align="center">Software Engineer</td>
 <td></td>
 </tr>
 </tbody>
-</table><p><strong>Table of Contents</strong></p>
+</table><p><br><br></p>
+<p><strong>Table of Contents</strong></p>
 <ul>
 <li><a href="#projects">Professional Experience</a>
 <ul>
